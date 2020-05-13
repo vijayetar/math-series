@@ -1,3 +1,5 @@
+PR: https://github.com/vijayetar/math-series/pull/1
+
 # Math-Series
 
 This is a series of functions printing the nth values at fibonacci series and lucas series using 6 different styles with test files in place.
